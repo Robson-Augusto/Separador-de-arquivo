@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3759/3759714.png" width="80" alt="Folder Icon"><br>
-  Batch File Separator Pro
+  File Separator
 </h1>
 
 <p align="center">
